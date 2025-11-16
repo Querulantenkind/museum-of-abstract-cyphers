@@ -210,3 +210,108 @@ Patterns and systems in language.
            │ │ │
   SEGM:  ●─●─●─●
 ```
+
+## Phonotactics
+
+```
+  LEGAL:  [str]
+           │││
+          ✓✓✓
+           
+  ILLEGAL: [*tsr]
+            │││
+           ✗✗✗
+```
+
+## Metrical Foot
+
+```
+     σ́ σ
+    ╱ ╲
+   S   W
+   │   │
+  STRONG WEAK
+```
+
+## Intonational Phrase
+
+```
+     IP
+    ╱│╲
+   │ │ │
+  H* L* H%
+  │  │  │
+ PITCH ACCENT BOUNDARY
+```
+
+## Coarticulation
+
+```
+  [t] + [i] → [tʲ]
+   │    │      │
+   C  + V  →  Cʲ
+       │
+    PALATAL
+```
+
+## Morpheme Types
+
+```
+    MORPHEME
+      ╱│╲
+     │ │ │
+   FREE │ BOUND
+      ROOT
+     AFFIX
+```
+
+## Sandhi
+
+```
+  /n/ + /p/ → [m][p]
+   │    │      │
+  ASSIMILATION
+```
+
+## Vowel Harmony
+
+```
+  STEM[+back]
+     │
+     ↓
+  SUFFIX[+back]
+     │
+    [u]
+```
+
+## Reduplication
+
+```
+  BASE → BASE~BASE
+   │        │
+  walk → walk~walk
+        │
+    INTENSIFY
+```
+
+## Compounding
+
+```
+  BLACK + BOARD
+    │      │
+    └──┬───┘
+       │
+   BLACKBOARD
+```
+
+## Suprasegmental
+
+```
+    LENGTH
+      │
+  [aː] vs [a]
+      │
+    LONG  SHORT
+```
+
+````

@@ -214,3 +214,118 @@ Making information smaller.
            
   DELTA:   00●●
 ```
+
+## Variable Length Codes
+
+```
+  SHORT: A → 0
+  MED:   B → 10
+  LONG:  C → 110
+  LONGER: D → 1110
+  
+  [FREQUENT = SHORT]
+```
+
+## Block Coding
+
+```
+  ┌────┬────┬────┐
+  │ A1 │ B1 │ C1 │
+  ├────┼────┼────┤
+  │ A2 │ B2 │ C2 │
+  ├────┼────┼────┤
+  │ A3 │ B3 │ C3 │
+  └────┴────┴────┘
+  [PROCESS TOGETHER]
+```
+
+## Adaptive Dictionary
+
+```
+  T=0: [A,B,C]
+  
+  USE A → MOVE FRONT
+  
+  T=1: [A,B,C]
+  
+  [UPDATES]
+```
+
+## Subsampling
+
+```
+  FULL: ●●●●●●●●
+        ││││││││
+        
+  HALF: ●_●_●_●_
+        
+  [REDUCE RATE]
+```
+
+## Predictive Coding
+
+```
+  PREDICT: ●̂
+           │
+  ACTUAL:  ●
+           │
+  ERROR: ε = ● - ●̂
+  
+  [ENCODE ERROR]
+```
+
+## Transform Coding
+
+```
+  SPATIAL:
+  ●●●●
+  ●●●●
+  
+  ↓ DCT
+  
+  FREQUENCY:
+  █░░░
+  ░░░░
+```
+
+## Entropy Encoding
+
+```
+  SYMBOL   PROB   CODE
+    A      0.5    0
+    B      0.25   10
+    C      0.125  110
+    D      0.125  111
+```
+
+## Range Encoding
+
+```
+  [0.0 ──────────── 1.0]
+  │    A   │  B  │ C │
+  0.0    0.5   0.75 1.0
+  
+  [NARROWING RANGE]
+```
+
+## Fractal Compression
+
+```
+    ●●●●
+   ●░░░●
+  ●░▒▒░●
+  ●░▒▒░●
+   ●░░░●
+    ●●●●
+  [SELF-SIMILAR]
+```
+
+## Sparse Coding
+
+```
+  DENSE:  ●●●●●●
+          
+  SPARSE: ●__●__●
+  
+  [FEW NON-ZERO]
+```

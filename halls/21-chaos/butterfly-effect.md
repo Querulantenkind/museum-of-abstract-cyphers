@@ -229,3 +229,110 @@ Sensitivity to initial conditions.
     ●   ●   ●
   [GROWS WITH TIME]
 ```
+
+## Sensitive Dependence
+
+```
+  Δx₀ = 10⁻⁶
+     │
+     ↓
+  Δx(t) = 10⁶
+  
+  [MILLION-FOLD GROWTH]
+```
+
+## Exponential Separation
+
+```
+  T=0:  ●●
+  T=1:  ● ●
+  T=2:  ●  ●
+  T=3:  ●   ●
+  T=4:  ●    ●
+  [d = d₀ e^λt]
+```
+
+## Attractor Basin Boundary
+
+```
+  BASIN A  │  BASIN B
+    ●●●    │    ○○○
+    ●●●░░░│░░░○○○
+    ●●●●●░│░○○○○○
+  [FRACTAL BOUNDARY]
+```
+
+## Lorenz Sensitivity
+
+```
+  WING 1     WING 2
+    ╱─╲       ╱─╲
+   ╱   ╲     ╱   ╲
+  │  ●──┼───┼──●  │
+   ╲   ╱     ╲   ╱
+    ╲─╱       ╲─╱
+  [BUTTERFLY WINGS]
+```
+
+## Trajectory Divergence
+
+```
+      ●
+     ╱│╲
+    ● │ ●
+   ╱  │  ╲
+  ●   ●   ●
+ ╱    │    ╲
+●     ●     ●
+[EXPONENTIAL TREE]
+```
+
+## Forecast Cone
+
+```
+      ●
+     ╱│╲
+    ╱ │ ╲
+   ╱  │  ╲
+  ╱───●───╲
+ ╱    │    ╲
+░░░░░●░░░░░░
+[UNCERTAINTY GROWS]
+```
+
+## Error Doubling Time
+
+```
+  ε₀ = 0.001
+     │
+  T_double ≈ 5 days
+     │
+     ↓
+  ε₁ = 0.002
+  ε₂ = 0.004
+  ε₃ = 0.008
+```
+
+## Chaos Indicator
+
+```
+  λ = lim 1/t log(d(t)/d₀)
+      t→∞
+  
+  λ > 0: ●●●●●●
+         CHAOS
+         
+  λ < 0: ───●───
+         STABLE
+```
+
+## Predictability Limit
+
+```
+  DAYS  ACCURACY
+  1     ████████ 90%
+  3     ██████   75%
+  7     ████     50%
+  14    ██       25%
+  [WEATHER]
+```

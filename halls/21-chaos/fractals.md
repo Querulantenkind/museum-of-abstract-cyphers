@@ -221,3 +221,106 @@ Non-integer dimensions in chaotic systems.
   ●●●●●●
 [D ≈ 2.06]
 ```
+
+## Lyapunov Fractal
+
+```
+  ●●●●●●●●
+  ●▓▓▓▓▓▓●
+  ●▓██████▓●
+  ●▓██▒▒██▓●
+  ●▓██████▓●
+  ●▓▓▓▓▓▓●
+  ●●●●●●●●
+[STABILITY MAP]
+```
+
+## Julia Set Boundary
+
+```
+   ╱╲ ╱╲ ╱╲
+  ●  ●  ●  ●
+   ╲╱ ╲╱ ╲╱
+  [INFINITELY DETAILED]
+```
+
+## Apollonian Gasket
+
+```
+    ╭───╮
+   ╱ ●●● ╲
+  │ ●   ● │
+  │●  ●  ●│
+  │ ●   ● │
+   ╲ ●●● ╱
+    ╰───╯
+[D ≈ 1.305]
+```
+
+## Burning Ship
+
+```
+  ████████
+  █░░░░░█
+  █░▒▓▓▒█
+  █░▓██▓█
+  █░▓██▓█
+  █░▒▓▓▒█
+  ████████
+[MANDELBROT VARIANT]
+```
+
+## T-Square Fractal
+
+```
+  ┌─┬─┬─┐
+  ├─┼─┼─┤
+  ├─┼─┼─┤
+  └─┴─┴─┘
+  [RECURSIVE SQUARES]
+```
+
+## Vicsek Fractal
+
+```
+    ●
+  ● ● ●
+    ●
+  [CROSS PATTERN]
+```
+
+## Pentaflake
+
+```
+      ▲
+     ▲ ▲
+    ▲ ▲ ▲
+   ▲     ▲
+  ▲ ▲   ▲ ▲
+[5-FOLD SYMMETRY]
+```
+
+## Barnsley Fern
+
+```
+      │
+     ╱│╲
+    ╱ │ ╲
+   ╱  │  ╲
+  │   │   │
+  │╲  │  ╱│
+   ╲╲ │ ╱╱
+    ╲╲│╱╱
+[IFS FERN]
+```
+
+## Chaos Game
+
+```
+       ●
+      ╱ ╲
+     ●   ●
+    ╱ ╲ ╱ ╲
+   ●───●───●
+[RANDOM WALK → PATTERN]
+```

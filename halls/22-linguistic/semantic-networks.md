@@ -204,3 +204,98 @@ ROOT│ │LEAF
     │          │
   JOURNEY → LIFE
 ```
+
+## Collocations
+
+```
+     MAKE
+    ╱│╲│╲
+   │ │ │ │
+DECISION│ │MISTAKE
+   CHOICE│
+      EFFORT
+```
+
+## Semantic Roles
+
+```
+     EVENT
+    ╱│╲│╲
+   │ │ │ │
+ AGENT│ │PATIENT
+   INSTRUMENT│
+        LOCATION
+```
+
+## Selectional Restriction
+
+```
+    VERB: EAT
+       │
+    ╱──┴──╲
+ ANIMATE  EDIBLE
+    ✓       ✓
+```
+
+## Deixis Network
+
+```
+      HERE
+     ╱│╲╲
+    │ │ │ ╲
+  THIS│ │  NEAR
+    NOW│
+     SPEAKER
+```
+
+## Antonymy Scale
+
+```
+  HOT ●─────────● COLD
+      WARM COOL
+       │    │
+       ●────●
+```
+
+## Collocation Network
+
+```
+    HEAVY
+   ╱│╲│╲
+  │ │ │ │
+RAIN│ │TRAFFIC
+  SMOKER│
+     BURDEN
+```
+
+## Semantic Primitives
+
+```
+      DO
+     ╱│╲
+    │ │ │
+  WANT│ │FEEL
+    THINK│
+       KNOW
+```
+
+## Conceptual Metaphor
+
+```
+  UP = GOOD
+  │
+  ●─────●
+  │     │
+ HIGH  HAPPY
+```
+
+## Script Structure
+
+```
+  RESTAURANT
+   ╱│╲│╲
+  │ │ │ │
+ENTER│ │PAY
+  ORDER│
+   EAT
+```

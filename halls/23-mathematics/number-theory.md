@@ -204,8 +204,118 @@ The poetry of primes and integers.
 
 ## Twin Primes
 
+## Twin Primes
+
 ```
   (3,5) (5,7) (11,13) (17,19)
   
   ● ● ● ● ●  ● ●  ●
 ```
+
+## Mersenne Primes
+
+```
+  2ᵖ - 1
+  
+  2³ - 1 = 7 ✓
+  2⁵ - 1 = 31 ✓
+  2⁷ - 1 = 127 ✓
+  
+  ●●●●●●● PRIME
+```
+
+## Prime Gaps
+
+```
+  PRIMES: 2 3 5 7 11 13 17 19 23
+  GAPS:    1 2 2 4  2  4  2  4
+  
+  ●─●──●──●────●──●────●──●────
+```
+
+## Quadratic Residues
+
+```
+  x² ≡ a (mod p)
+  
+  1² ≡ 1 (mod 7)
+  2² ≡ 4 (mod 7)
+  3² ≡ 2 (mod 7)
+  
+     ●
+    ╱│╲
+   ● ● ●
+```
+
+## Euler's Identity
+
+```
+  e^(iπ) + 1 = 0
+  
+  ●────●────●
+  e    i    1
+    π   ●
+       0
+```
+
+## Amicable Numbers
+
+```
+  220 ⇄ 284
+  
+  σ(220) = 284
+  σ(284) = 220
+  
+  ●●●●●●●●●●
+```
+
+## Legendre Symbol
+
+```
+  (a|p) = ±1, 0
+  
+    +1: quadratic residue
+    -1: non-residue
+     0: p divides a
+```
+
+## Carmichael Numbers
+
+```
+  561 = 3 × 11 × 17
+  
+  aⁿ ≡ a (mod n)
+  
+  PSEUDOPRIME
+```
+
+## Wilson's Theorem
+
+```
+  (p-1)! ≡ -1 (mod p)
+  
+  4! ≡ -1 (mod 5)
+  24 ≡ -1 (mod 5) ✓
+```
+
+## Sum of Squares
+
+```
+  5 = 1² + 2²
+  
+   ●
+  ●●●●
+  
+  TWO SQUARES
+```
+
+## Arithmetic Progression
+
+```
+  3, 7, 11, 15, 19, 23...
+  
+  ●───●───●───●───●───●
+    +4  +4  +4  +4  +4
+```
+
+````

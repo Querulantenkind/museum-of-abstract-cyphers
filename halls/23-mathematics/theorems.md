@@ -231,3 +231,114 @@ Great mathematical truths in ASCII.
      │╱
   ───┴────→ x
 ```
+
+## Ramsey's Theorem
+
+```
+  PARTY SIZE n
+  
+  ●─────●
+   ╲   ╱
+    ╲ ╱
+     ●
+  
+  [GUARANTEED STRUCTURE]
+```
+
+## Hahn-Banach Theorem
+
+```
+  EXTEND LINEAR FUNCTIONAL
+  
+  V ⊃ U
+  │   │
+  f   φ
+  
+  [PRESERVE NORM]
+```
+
+## Stone-Weierstrass
+
+```
+  C[a,b]
+  
+  POLYNOMIALS DENSE
+  
+  ●─●─●─●─●─●─→
+```
+
+## Cayley-Hamilton
+
+```
+  p(A) = 0
+  
+  A satisfies own
+  characteristic polynomial
+  
+  ●→●→●→●
+```
+
+## Sylow's Theorems
+
+```
+  |G| = p^k · m
+  
+  ∃ Sylow p-subgroups
+  
+  ●●●●●
+   p^k
+```
+
+## Lagrange's Theorem
+
+```
+  |H| divides |G|
+  
+  G ⊃ H
+  │   │
+  12  4
+  
+  12/4 = 3
+```
+
+## Isomorphism Theorems
+
+```
+  G/ker(φ) ≅ im(φ)
+  
+  G ──φ→ H
+  │      │
+  ker   im
+```
+
+## Fundamental Theorem of Algebra
+
+```
+  p(z) = 0
+  
+  degree n
+  → n roots
+  
+  ●●●●●
+```
+
+## Cantor's Theorem
+
+```
+  |A| < |P(A)|
+  
+  ●●●●
+  
+  2^n > n
+```
+
+## Baire Category
+
+```
+  COMPLETE METRIC SPACE
+  
+  COUNTABLE DENSE OPEN
+  → DENSE INTERSECTION
+  
+  ●●●●●●●●●●
+```

@@ -249,3 +249,110 @@ Chaotic systems converging to complex patterns.
     ●●●●●
 [SPIRAL]
 ```
+
+## Halvorsen Attractor
+
+```
+      ●─●
+     ╱│ │╲
+    ● │ │ ●
+   ╱ ╲│╱ ╲
+  ●───●───●
+   ╲ ╱│╲ ╱
+    ● │ │ ●
+     ╲│ │╱
+      ●─●
+```
+
+## Thomas Attractor
+
+```
+   ╭─────╮
+  ╱   ●   ╲
+ │   ╱│╲   │
+ │  ● ● ●  │
+  ╲  ╲│╱  ╱
+   ╲  ●  ╱
+    ╰───╯
+[CYCLICAL]
+```
+
+## Dadras Attractor
+
+```
+    ●
+   ╱│╲
+  ● ● ●
+  │╲│╱│
+  ● ● ●
+  │╱│╲│
+  ● ● ●
+   ╲│╱
+    ●
+```
+
+## Sprott Attractor
+
+```
+  ●●●●●
+  ●   ●
+  ● ● ●
+  ●   ●
+  ●●●●●
+[SIMPLE CHAOS]
+```
+
+## Multiscroll Attractor
+
+```
+  ╭─╮ ╭─╮ ╭─╮
+ │ ●││ ●││ ● │
+  ╰─╯ ╰─╯ ╰─╯
+[MULTIPLE SCROLLS]
+```
+
+## Nose-Hoover Oscillator
+
+```
+    ∿∿∿
+   ╱   ╲
+  │  ●  │
+   ╲   ╱
+    ∿∿∿
+[MOLECULAR DYNAMICS]
+```
+
+## Mackey-Glass
+
+```
+  ●─────●
+  │  ╱  │
+  │ ╱   │
+  │╱    │
+  ●─────●
+[DELAY DIFFERENTIAL]
+```
+
+## Shimizu-Morioka
+
+```
+     ●
+    ╱╲
+   ●  ●
+   │  │
+   ●──●
+    ╲╱
+     ●
+```
+
+## Genesio-Tesi
+
+```
+   ╭───╮
+  ╱ ●●● ╲
+ │ ●   ● │
+ │●  ●  ●│
+ │ ●   ● │
+  ╲ ●●● ╱
+   ╰───╯
+```

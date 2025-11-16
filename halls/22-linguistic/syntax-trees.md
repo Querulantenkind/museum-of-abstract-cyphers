@@ -215,3 +215,108 @@ Grammatical structure visualized.
    ╱ ╲         ╱ ╲
   X   YP →   X+Y  YP
 ```
+
+## Empty Category
+
+```
+        S
+       ╱│╲
+     NP │ VP
+     │  │ │╲
+    Who │ V  e
+       did │
+         see
+  [TRACE]
+```
+
+## Topicalization
+
+```
+         CP
+        ╱│╲
+      NP C'
+      │  │╲
+    Book C  S
+         │  │╲
+        did NP VP
+```
+
+## Wh-Movement
+
+```
+      CP
+     ╱│╲
+   What C'
+        │╲
+       did S
+           │╲
+          you see t
+          [TRACE]
+```
+
+## VP Ellipsis
+
+```
+    S
+   ╱│╲
+  NP VP
+  │  │╲
+ John V  ∅
+      │
+    will [go]
+```
+
+## Raising
+
+```
+      S
+     ╱│╲
+   NP │ VP
+   │  │ │
+  John│seems t to sleep
+       [MOVED]
+```
+
+## Control
+
+```
+        S
+       ╱│╲
+     NP │ VP
+     │  │ │╲
+   John │ V  S
+       tries │╲
+            PRO VP
+```
+
+## Clitic Climbing
+
+```
+  ROMANCE:
+    VP
+   ╱│╲
+  V  CL V
+  │   │  │
+ want it read
+```
+
+## Scrambling
+
+```
+  BASE:  SOV
+         │││
+  SCRAMBLED: OSV
+         [FREE ORDER]
+```
+
+## Particle Movement
+
+```
+  BEFORE: V NP Prt
+  
+  turn [the light] off
+  
+  AFTER: V Prt NP
+  
+  turn off [the light]
+```

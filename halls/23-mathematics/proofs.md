@@ -227,3 +227,120 @@ Mathematical reasoning visualized.
   ∃ outcome
   where P holds
 ```
+
+## Bijective Proof
+
+```
+  SET A ↔ SET B
+   ●●●  ←→ ●●●
+   
+  |A| = |B|
+```
+
+## Proof by Example
+
+```
+  CLAIM: ∃x P(x)
+  
+  WITNESS: x = 5
+           ●
+           │
+         P(5) ✓
+```
+
+## Well-Ordering
+
+```
+  S ⊆ ℕ, S ≠ ∅
+      │
+      ↓
+  ∃ min(S)
+      ●
+```
+
+## Strong Induction
+
+```
+  BASE: P(0)
+     │
+  STEP: P(0)∧...∧P(k) → P(k+1)
+     │
+     ↓
+  ∀n: P(n)
+```
+
+## Fixed Point
+
+```
+  f(x) = x
+     │
+     ●
+    ╱│╲
+   f(●) = ●
+```
+
+## Cantor's Diagonal
+
+```
+  0.1415...
+  0.7182...
+  0.6931...
+   ↘ ↘ ↘
+  CONSTRUCT NEW
+```
+
+## Zorn's Lemma
+
+```
+  CHAIN:
+  a₁ ⊆ a₂ ⊆ a₃ ...
+   │    │    │
+   └────┴────┘
+       ∪
+   [MAXIMAL]
+```
+
+## Proof by Cases
+
+```
+     CLAIM
+     ╱  ╲
+   C1    C2
+   │     │
+   Q     Q
+   └──┬──┘
+      Q
+```
+
+## Structural Induction
+
+```
+  BASE: atoms
+     │
+  STEP: compound
+     │
+     ↓
+  ∀ structure
+```
+
+## Descending Chain
+
+```
+  a₁ ⊇ a₂ ⊇ a₃ ...
+   │    │    │
+   └────┴────●
+     TERMINATE
+```
+
+````
+```
+
+## Probabilistic Proof
+
+```
+  Pr[P] > 0
+     │
+     ↓
+  ∃ outcome
+  where P holds
+```

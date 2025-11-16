@@ -227,3 +227,117 @@ Measuring disorder and information content.
   
   [LOSSLESS]
 ```
+
+## Joint Entropy
+
+```
+  H(X,Y)
+  
+  ┌───────────┐
+  │ X    XY   │
+  │      ╱╲   │
+  │     ╱  ╲  │
+  │    Y    Z │
+  └───────────┘
+  [TOTAL UNCERTAINTY]
+```
+
+## Information Bottleneck
+
+```
+  INPUT      BOTTLENECK    OUTPUT
+  ●●●●●●  →    ●●●     →  ●●●●●●
+  [COMPRESS]   [KEEP RELEVANT]
+```
+
+## Entropy Pool
+
+```
+  ░░░░░░░░░░░░
+  ░▒▒▒▒▒▒▒▒▒░
+  ░▒▓▓▓▓▓▓▓▒░
+  ░▒▓█████▓▒░
+  ░▒▓▓▓▓▓▓▓▒░
+  ░▒▒▒▒▒▒▒▒▒░
+  ░░░░░░░░░░░░
+  [RANDOMNESS RESERVOIR]
+```
+
+## Binary Symmetric Channel
+
+```
+  0 ──→ 0 (1-p)
+    ╲ ╱
+     ╳   p
+    ╱ ╲
+  1 ──→ 1 (1-p)
+  [ERROR PROBABILITY]
+```
+
+## Entropy Coding Efficiency
+
+```
+  OPTIMAL:  ═══●═══
+            H(X)
+            
+  ACTUAL:   ═══●═══●
+            L(C)
+            
+  η = H(X)/L(C)
+```
+
+## Typical Set
+
+```
+  ALL SEQUENCES:
+  ░░░░░░░░░░░░
+  ░▒▒▒▒▒▒▒▒▒░
+  
+  TYPICAL:
+  ░▒▓▓▓▓▓▓▓▒░
+  [MOST PROBABLE]
+```
+
+## Asymptotic Equipartition
+
+```
+  n→∞
+  
+  ●●●●●●●●●●
+  ●●●●●●●●●●
+  ●●●●●●●●●●
+  
+  → 2^(nH) typical
+```
+
+## Min-Entropy
+
+```
+  H_∞(X) = -log₂(max p(x))
+  
+  ●●●●●●●●●●█
+           ↑
+  [MOST LIKELY]
+```
+
+## Rényi Entropy
+
+```
+  H_α(X) = 1/(1-α) log₂(Σ p^α)
+  
+  α=0: ●●●●●● (max)
+  α=1: ●●●●   (Shannon)
+  α=∞: ●●     (min)
+```
+
+## Differential Entropy
+
+```
+  h(X) = -∫ f(x)log₂f(x)dx
+  
+      ╱─╲
+     ╱   ╲
+    ╱     ╲
+  ╱________╲
+  [CONTINUOUS]
+```

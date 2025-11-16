@@ -205,3 +205,108 @@ Transmitting information reliably.
   ╠══════════╣ LINK
   ╚══════════╝ PHYSICAL
 ```
+
+## Time Division Multiplexing
+
+```
+  A: ●__●__●__
+  B: _●__●__●_
+  C: __●__●__●
+  
+  MUX: ●●●●●●●●●
+```
+
+## Frequency Division
+
+```
+  f₃: ──A──A──
+  f₂: ──B──B──
+  f₁: ──C──C──
+  [SEPARATE BANDS]
+```
+
+## ARQ Protocol
+
+```
+  SEND: ●──→
+  
+  ERROR: ×←──
+  
+  RESEND: ●──→
+  
+  ACK: ✓←──
+```
+
+## Sliding Window
+
+```
+  [●●●●____]
+   ↑  ↑
+   SEND ACK
+   
+  [_●●●●___]
+   [ADVANCE]
+```
+
+## CSMA/CD
+
+```
+  LISTEN: ∿∿∿∿
+          │
+  COLLISION: ╳
+          │
+  BACKOFF: ⏸
+          │
+  RETRY: ●──→
+```
+
+## Echo Cancellation
+
+```
+  SEND:     ●──→
+  
+  ECHO:     ●←──
+  
+  SUBTRACT: ●─●=0
+```
+
+## Equalization
+
+```
+  INPUT:  ∿∿∿∿∿
+          ↓
+  FILTER: ▓▓▓
+          ↓
+  OUTPUT: ═══
+  [FLATTEN]
+```
+
+## Trellis Coding
+
+```
+      ●
+     ╱│╲
+    ● ● ●
+   ╱│X│X│╲
+  ● ● ● ● ●
+  [STATES]
+```
+
+## Cyclic Redundancy Check
+
+```
+  DATA: ●●●●●●
+        │││││
+  POLY: 1011
+        ↓
+  CRC:  ●●●
+```
+
+## Packet Switching
+
+```
+  ●─┐ ┌─●
+    ├─┤
+  ●─┘ └─●
+  [SHARED PATH]
+```
