@@ -134,3 +134,96 @@
               ╲      ╲      ╲
   Prey      ●══╲════●══╲════●
 ```
+
+## Convergent Evolution
+
+```
+    Origin A     Origin B
+        ●            ●
+        │            │
+        ●            ●
+         ╲          ╱
+          ●        ●
+           ╲      ╱
+            ●────●
+         Similar Form
+```
+
+## Punctuated Equilibrium
+
+```
+  ●═══════●
+           │
+           ●─────●
+                 │
+                 ●═════●
+  
+  Stasis → Rapid Change
+```
+
+## Adaptive Radiation
+
+```
+        ●
+        │
+    ┌───┼───┐
+    │   │   │
+   ●┐  ●│  ●┤
+   ●│  ●│  ●│
+   ●┘  ●┘  ●┘
+  Diverse niches
+```
+
+## Genetic Drift
+
+```
+  ●●●●●●●●
+    ╲  ╱
+     ●●
+    ╱  ╲
+  ●●    ●●●
+  
+  Random changes
+```
+
+## Natural Selection
+
+```
+  Before: ○ ○ ● ○ ○
+          │ │ │ │ │
+  After:  ✗ ✗ ● ✗ ✗
+  
+  Survival of fittest
+```
+
+## Speciation
+
+```
+    ●────────●
+    │        │
+    ●        ●
+   ╱│        │╲
+  ● │        │ ●
+    ╲        ╱
+     Species A  B
+```
+
+## Atavism
+
+```
+  Past → Present → Future
+   ●──────●──────●
+          │
+          ●
+      Throwback
+```
+
+## Coevolution
+
+```
+  Species A: ●═══●═══●
+             │   │   │
+  Species B: ●═══●═══●
+  
+  Mutual influence
+```

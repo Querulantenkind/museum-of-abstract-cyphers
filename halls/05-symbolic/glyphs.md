@@ -120,3 +120,94 @@
    ╲  ╱
     ╲╱
 ```
+
+## Zodiac Glyphs
+
+```
+  ♈ Aries    ♎ Libra
+  ♉ Taurus   ♏ Scorpio
+  ♊ Gemini   ♐ Sagittarius
+  ♋ Cancer   ♑ Capricorn
+  ♌ Leo      ♒ Aquarius
+  ♍ Virgo    ♓ Pisces
+```
+
+## Hermetic Symbols
+
+```
+  🜁 Fire
+  🜂 Air
+  🜃 Water
+  🜄 Earth
+  
+  ☿ Mercury
+  ♀ Venus
+  ⊕ Earth
+  ♂ Mars
+```
+
+## Tree of Life Paths
+
+```
+      ①
+     ╱│╲
+    ② │ ③
+   ╱╲ │ ╱╲
+  ④──⑤──⑥
+   ╲ │╱│╱
+    ⑦│⑧│⑨
+     ╲│╱
+      ⑩
+```
+
+## Magical Seals
+
+```
+  ╭───────╮
+  │ ⚝ ⚞ ⚟ │
+  │ ⚜ ☆ ⚛ │
+  │ ⚘ ⚙ ⚚ │
+  ╰───────╯
+```
+
+## Weather Glyphs
+
+```
+  ☀ Sun      ☂ Rain
+  ☁ Cloud    ❄ Snow
+  ⛈ Storm    ☾ Moon
+  ☼ Bright   ⛅ Partly
+```
+
+## Rune Circle
+
+```
+    ᚠ ᚢ ᚦ
+   ᚨ     ᚱ
+  ᚲ   ●   ᚷ
+   ᚹ     ᚺ
+    ᚾ ᛁ ᛃ
+```
+
+## Alchemical Processes
+
+```
+  🜚 Calcination
+  🜛 Solution
+  🜜 Separation
+  🜝 Conjunction
+  🜞 Fermentation
+  🜟 Distillation
+  🜠 Coagulation
+```
+
+## Sacred Geometries
+
+```
+  ⬡ Hexagon
+  ⬢ Filled Hex
+  ⬟ Pentagon
+  ⬠ Square
+  ◯ Circle
+  ⬭ Diamond
+```

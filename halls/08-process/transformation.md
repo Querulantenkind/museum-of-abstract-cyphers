@@ -130,3 +130,74 @@
   
    ●   →    │●    →   ╱│╲   →    ✿
 ```
+
+## Phase Shift
+
+```
+  State A     Transition     State B
+  
+  ▓▓▓▓    →    ░▓▓░    →    ░░░░
+```
+
+## Alchemical Process
+
+```
+  Lead          Gold
+   ▓      ⚗      ☆
+   ▓   →  ⚡  →  ☆
+   ▓      ♨      ☆
+```
+
+## Digital to Analog
+
+```
+  1010101  →  ≈≈≈≈≈≈≈
+  Binary      Waveform
+```
+
+## Energy Conversion
+
+```
+  Potential → Kinetic
+  
+     ●         ●→
+     │         
+  ═══╧═══    ═════
+  
+  Height    Motion
+```
+
+## State Machine
+
+```
+     ┌─────────┐
+     │         ↓
+  ●──→●──→●──→●
+  A   B   C   D
+```
+
+## Evolution
+
+```
+  Simple → Complex
+  
+    ●   →   ●●●
+            ╱│╲
+           ● ● ●
+```
+
+## Decay Process
+
+```
+  Full → Fading → Gone
+  
+  ████ → ▓▓░░ → ░░░░
+```
+
+## Refinement
+
+```
+  Rough   →   Smooth
+  
+  ╱╲╱╲   →   ━━━━
+```

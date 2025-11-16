@@ -144,3 +144,96 @@ Winter○     ○Summer
        ╲ Birth  ╱
         ╰───────╯
 ```
+
+## Solar Cycle
+
+```
+    Dawn  Noon  Dusk
+      ╲    │    ╱
+       ╲   │   ╱
+  Night ╲  │  ╱ Day
+        ─●─┼─●─
+         ╱ │ ╲
+        ╱  │  ╲
+```
+
+## Moon Phases
+
+```
+  ○ ◐ ● ◑ ○
+  New→ Full →New
+```
+
+## Economic Cycle
+
+```
+   Growth
+      ╱╲
+     ╱  ╲
+    ╱    ╲
+   ╱      ╲
+  ●────────●
+  │        │
+  │Recession│
+   ╲      ╱
+    ╲    ╱
+     ╲  ╱
+      ╲╱
+    Trough
+```
+
+## Butterfly Effect Loop
+
+```
+    ╭──────╮
+    │  ●   │
+    │ ╱│╲  │
+  ╭─┴──┼──┴─╮
+  │    ↓    │
+  │ Cascade │
+  ╰─┬──┼──┬─╯
+    │ ╲│╱  │
+    │  ●   │
+    ╰──────╯
+```
+
+## Metabolic Cycle
+
+```
+  Glucose → Energy
+     ↑          ↓
+     │          │
+     └─── CO₂ ──┘
+```
+
+## Feedback Loop
+
+```
+  Input → Process
+    ↑        ↓
+    │      Output
+    │        ↓
+    └── Feedback
+```
+
+## Generational Cycle
+
+```
+  ●──→●──→●──→●
+  G₁  G₂  G₃  G₄
+   ╲   ╲   ╲   ╲
+    └───└───└───→
+     Inherited
+```
+
+## Musical Loop
+
+```
+  ┌─────────────┐
+  │ ♪ → ♫ → ♬ │
+  └──────┬──────┘
+         ↓
+    ┌────●────┐
+    │ Repeat  │
+    └─────────┘
+```

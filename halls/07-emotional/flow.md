@@ -139,3 +139,91 @@
        ✧  │  ✧
           │
 ```
+
+## Empathy Stream
+
+```
+  Person A     Person B
+      ●◝◜◝◜◝◜◝◜●
+       ◞◟      ◞◟
+        ╲     ╱
+         ╲   ╱
+          ● ●
+       Connection
+```
+
+## Joy Ripple
+
+```
+    ☺     ☺     ☺
+   ╱ ╲   ╱ ╲   ╱ ╲
+  ☺   ☺ ☺   ☺ ☺   ☺
+  
+  Spreading happiness
+```
+
+## Grief Descent
+
+```
+  ╭──────╮
+  │  ●   │
+  │  ↓   │
+  │  ●   │
+  │  ↓   │
+  │  ●   │
+  │  ↓   │
+  ╰──────╯
+```
+
+## Love Circulation
+
+```
+    ♥──→♥
+    ↑    ↓
+    │    │
+    ♥←──♥
+```
+
+## Anxiety Spiral
+
+```
+    ●╲
+   ╱  ╲
+  ●    ●
+   ╲  ╱
+    ●╱
+   ╱ ╲
+  Tightening
+```
+
+## Calm Waters
+
+```
+  ═════════════
+  ═════════════
+  ═════════════
+  ═════════════
+  
+  Peaceful
+```
+
+## Passion Flame
+
+```
+      ╱╲
+     ╱  ╲
+    ╱ ✹  ╲
+   ╱  ✹   ╲
+  ╱   ✹    ╲
+ ════════════
+```
+
+## Emotional Wave
+
+```
+     ╱╲    ╱╲
+    ╱  ╲  ╱  ╲
+   ╱    ╲╱    ╲
+  ────────────────→
+  Highs and lows
+```

@@ -130,3 +130,73 @@ Start  Milestone End
                       │
                       ●──────→ Past
 ```
+
+## Gantt Chart
+
+```
+  Task A ▓▓▓▓▓░░░░░░
+  Task B ░░▓▓▓▓▓░░░░
+  Task C ░░░░░▓▓▓▓▓▓
+         │   │   │
+        Week 1  2  3
+```
+
+## Geological Timeline
+
+```
+  ●────────────────────●
+  Precambrian    Today
+  4.6Ga          0
+```
+
+## Event Horizon
+
+```
+      Past      Future
+        │   ●   │
+  ──────┼───┼───┼──────
+        │  Now │
+     Memory  Prediction
+```
+
+## Timeline Split
+
+```
+  ●─────●─────●
+        │
+        ├─────●
+        │
+        └─────●
+   Alternate paths
+```
+
+## Historical Epochs
+
+```
+  Ancient │Medieval│Modern│Digital
+     ●────┼────●───┼──●───┼──●──→
+```
+
+## Life Stages
+
+```
+  Birth  Youth  Adult  Elder
+    ●─────●─────●─────●
+```
+
+## Project Timeline
+
+```
+  Plan  Build  Test  Deploy
+   ●──→──●──→──●──→──●
+   │     │     │     │
+  Start  25%   75%   End
+```
+
+## Cosmic Timeline
+
+```
+  Big Bang → Stars → Planets → Life
+     ●───────●────────●────────●
+    13.8Ga   13Ga     4.5Ga    3.8Ga
+```

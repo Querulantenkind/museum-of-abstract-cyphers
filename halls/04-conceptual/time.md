@@ -162,3 +162,102 @@ Past ─────→ Present ─────→ Future
            │
     ━━━━━━━●━━━━━━━
 ```
+
+## Time Dilation
+
+```
+      Fast
+     ⚡ ●→
+    ╱     ╲
+   ╱       ╲
+  ●─────────●
+   ╲       ╱
+    ╲     ╱
+     ● ←●
+      Slow
+```
+
+## Eternal Return
+
+```
+    ╭───────────╮
+    │           │
+    ●───→●───→●─┤
+    ↑         ↓ │
+    │         ● │
+    └─────────●─╯
+```
+
+## Time Crystals
+
+```
+  ◆     ◆     ◆
+    ◆     ◆     ◆
+  ◆     ◆     ◆
+    ◆     ◆     ◆
+  
+  Repeating in time
+```
+
+## Block Universe
+
+```
+  ┌─────────────┐
+  │░░░░░░░░░░░░░│ Future
+  │▒▒▒▒▒▒▒▒▒▒▒▒▒│ Present
+  │█████████████│ Past
+  └─────────────┘
+   All exists at once
+```
+
+## Time's Arrow
+
+```
+  Order         Chaos
+    ●────────────→●
+  ▓▓▓          ░░░
+  ▓▓▓    →     ░ ░
+  ▓▓▓          ░░░
+  
+  Entropy increases
+```
+
+## Planck Time
+
+```
+  ●━●━●━●━●━●━●━●
+  │ │ │ │ │ │ │ │
+  Smallest time units
+  5.39 × 10⁻⁴⁴ s
+```
+
+## Spacetime
+
+```
+     Time
+      ↑
+      │
+      │  ╱
+      │ ╱ Event
+      │╱
+  ────●────→ Space
+     ╱│
+    ╱ │
+   ╱  │
+```
+
+## Before and After
+
+```
+     Before
+  ┌──────────┐
+  │  ◯ → ●  │
+  └────┬─────┘
+       ↓
+    Change
+       ↓
+  ┌────┴─────┐
+  │  ● → ◉  │
+  └──────────┘
+      After
+```
