@@ -310,3 +310,170 @@ Transmitting information reliably.
   ●─┘ └─●
   [SHARED PATH]
 ```
+
+## Shannon's Theorem
+
+```
+  C = B log₂(1 + S/N)
+  
+  ┌────────────┐
+  │ CAPACITY  │
+  │    =      │
+  │ BANDWIDTH │
+  │    ×      │
+  │   LOG₂    │
+  │    SNR    │
+  └────────────┘
+```
+
+## Nyquist Sampling
+
+```
+  SIGNAL:  ∿∿∿∿∿
+           │ │ │
+  SAMPLE:  ● ● ●
+           
+  fs ≥ 2×fmax
+```
+
+## Quantization
+
+```
+  ANALOG:  ∿∿∿∿
+           ├─┤
+  DIGITAL: ███
+           
+  [STEPS]
+```
+
+## Differential Encoding
+
+```
+  DATA:    ●─●─●─●
+           ╲ ╱ ╲ ╱
+  ENCODED: ─●─●─●─
+  [XOR WITH PREV]
+```
+
+## Manchester Encoding
+
+```
+  0: ╲╱
+  1: ╱╲
+  
+  DATA: 1 0 1 1
+  WAVE: ╱╲╲╱╱╲╱╲
+```
+
+## Pulse Code Modulation
+
+```
+      ∿∿∿
+     ↓ ↓ ↓
+  3: █   █
+  2: █ █ █
+  1: █ █ █
+  0: █ █ █
+```
+
+## Adaptive Modulation
+
+```
+  GOOD SNR:  ●●●●
+             [64-QAM]
+             
+  POOR SNR:  ●  ●
+             [QPSK]
+```
+
+## Network Topology
+
+```
+  STAR:    ●─●─●
+             │
+             
+  RING:   ●─●─●
+          │   │
+          ●───●
+          
+  MESH:   ●─●─●
+          ├╳├╳├
+          ●─●─●
+```
+
+## Quality of Service
+
+```
+  HIGH: ●●●●●●●●
+        ↓
+  [PRIORITIZE]
+        ↓
+  LOW:  ●  ●  ●
+```
+
+## Beamforming
+
+```
+     ╱│╲
+    ╱ │ ╲
+   ╱  →  ╲
+  ●───●───●
+  [DIRECTED]
+```
+
+## Diversity
+
+```
+  PATH 1: ●──→●
+          ↓
+  PATH 2: ●──→●
+          ↓
+  COMBINE: ●
+```
+
+## Turbo Coding
+
+```
+  ┌──→ENCODE──┐
+  │           ↓
+DATA──→INTERLEAVE
+  │           ↓
+  └──→ENCODE──┘
+```
+
+## OFDM
+
+```
+  f₀: ∿∿∿∿∿∿
+  f₁: ∿∿∿∿∿∿
+  f₂: ∿∿∿∿∿∿
+  f₃: ∿∿∿∿∿∿
+  [ORTHOGONAL]
+```
+
+## Broadcast
+
+```
+      ●
+     ╱│╲
+    ╱ │ ╲
+   ●  ●  ●
+  [ONE TO ALL]
+```
+
+## Unicast
+
+```
+  ●─────────→●
+  [ONE TO ONE]
+```
+
+## Multicast
+
+```
+      ●
+     ╱│
+    ╱ │
+   ●  ●
+  [ONE TO MANY]
+```
