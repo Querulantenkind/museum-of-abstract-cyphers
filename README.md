@@ -50,13 +50,14 @@
     │          Fractals, patterns, sacred geometry, tessellations      │
     │                                                                  │
     │  HALL 2: ORGANIC FORMS ···························· [02]       │
-    │          Trees, flowers, growth patterns, flow                   │
+    │          Trees, flowers, animals, insects, marine life, fungi    │
     │                                                                  │
     │  HALL 3: ARCHITECTURAL VISIONS ················· [03]         │
-    │          Cathedrals, bridges, labyrinths, skyscrapers            │
+    │          Cathedrals, bridges, labyrinths, monuments, temples,    │
+    │          castles, arches                                         │
     │                                                                  │
     │  HALL 4: CONCEPTUAL ABSTRACTIONS ·············· [04]          │
-    │          Ideas rendered visible, consciousness, paradoxes        │
+    │          Consciousness, duality, infinity, paradoxes, time       │
     │                                                                  │
     │  HALL 5: SYMBOLIC CYPHERS ······················ [05]          │
     │          Visual languages, glyphs, runes, encoded meanings       │
@@ -434,18 +435,27 @@
     │   │   ├── trees.md ················ Binary trees, forests, bonsai
     │   │   ├── flowers.md ·············· Roses, lotus, sunflowers, meadows
     │   │   ├── growth.md ··············· Cell division, branching, mycelium
-    │   │   └── flow.md ················· Rivers, waves, vortexes, currents
+    │   │   ├── flow.md ················· Rivers, waves, vortexes, currents
+    │   │   ├── animals.md ·············· Mammals, birds, reptiles, aquatic
+    │   │   ├── insects.md ·············· Butterflies, bees, beetles, spiders
+    │   │   ├── marine-life.md ·········· Fish, whales, jellyfish, octopuses
+    │   │   └── fungi.md ················ Mushrooms, puffballs, lichens
     │   │
     │   ├── 03-architectural/
     │   │   ├── cathedrals.md ··········· Gothic arches, stained glass
     │   │   ├── labyrinths.md ··········· Mazes and pathways
     │   │   ├── bridges.md ·············· Suspension, arch, truss, cable-stayed
-    │   │   └── skyscrapers.md ·········· Towers, high-rises, skylines
+    │   │   ├── monuments.md ············ Pyramids, Taj Mahal, world landmarks
+    │   │   ├── temples.md ·············· Buddhist, Hindu, Islamic, ancient
+    │   │   ├── castles.md ·············· Medieval, Japanese, European, fantasy
+    │   │   └── arches.md ··············· Roman, Gothic, Islamic, ceremonial
     │   │
     │   ├── 04-conceptual/
     │   │   ├── paradoxes.md ············ Möbius strips, impossible objects
-    │   │   ├── consciousness.md ········ Mind maps, thought structures
-    │   │   └── time.md ················· Temporal representations
+    │   │   ├── consciousness.md ········ Mind maps, thought structures, awareness
+    │   │   ├── time.md ················· Temporal representations
+    │   │   ├── duality.md ·············· Yin-yang, opposites, balance
+    │   │   └── infinity.md ············· Endless loops, recursion, boundless
     │   │
     │   ├── 05-symbolic/
     │   │   ├── cyphers.md ·············· Encoded messages, secret writing
@@ -867,17 +877,21 @@
     ╔═══════════════════════════════════════╗
     ║                                       ║
     ║  TOTAL HALLS: 24                      ║
-    ║  TOTAL FILES: 80+                     ║
-    ║  TOTAL PIECES: 500+                   ║
+    ║  TOTAL FILES: 91+                     ║
+    ║  TOTAL PIECES: 1360+                  ║
     ║                                       ║
-    ║  NEWLY ADDED:                         ║
-    ║  • Flowers collection (27 pieces)     ║
-    ║  • Skyscrapers (20 pieces)            ║
-    ║  • Extended Fractals (11+ pieces)     ║
-    ║  • Sacred Geometry (10+ pieces)       ║
-    ║  • Glitch Art (15+ pieces)            ║
-    ║  • Cosmic Horror (14+ pieces)         ║
-    ║  • Information Theory (17+ pieces)    ║
+    ║  RECENTLY ADDED:                      ║
+    ║  • Animals (70+ pieces)               ║
+    ║  • Insects (100+ pieces)              ║
+    ║  • Marine Life (100+ pieces)          ║
+    ║  • Fungi (80+ pieces)                 ║
+    ║  • Monuments (50+ pieces)             ║
+    ║  • Temples (60+ pieces)               ║
+    ║  • Castles (70+ pieces)               ║
+    ║  • Arches (100+ pieces)               ║
+    ║  • Duality (60+ pieces)               ║
+    ║  • Infinity (80+ pieces)              ║
+    ║  • Consciousness (expanded to 90+)    ║
     ║                                       ║
     ║  STATUS: Actively Growing             ║
     ║  LAST UPDATED: 2025-11-18             ║
